@@ -1,6 +1,6 @@
 ## Experiments:
 
-* [lottie-react@0.0.5](https://github.com/chenqingspring/react-lottie)
+* [lottie-react@0.0.8](https://github.com/chenqingspring/react-lottie)
 
 ## Setup
 
